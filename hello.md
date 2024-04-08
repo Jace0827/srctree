@@ -2,9 +2,7 @@
 
 #여기로 돌아오기
 
-<<<<<<< HEAD
 #branch2
-=======
 
 #main
 #branch2
@@ -14,4 +12,6 @@
 
 
 ##버전3 커밋 테스트
->>>>>>> version4
+
+
+// test branch
